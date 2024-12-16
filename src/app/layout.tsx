@@ -14,8 +14,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: 'Corebiz | Tecnical Challenge',
-  description: '',
+  title: 'Corebiz | Technical Challenge',
+  description: 'Front-end',
 };
 
 export default function RootLayout({
